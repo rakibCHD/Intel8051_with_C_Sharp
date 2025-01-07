@@ -161,7 +161,7 @@ namespace AT89S52_AVR8051_Programmer
         private void Guideline_Label_Click(object sender, EventArgs e)
         {
             GuideLine form = new GuideLine();
-            form.ShowDialog();
+            form.ShowDialog(); 
         }
 
         private void Reconnect_Click(object sender, EventArgs e)
