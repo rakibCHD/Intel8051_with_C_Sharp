@@ -17,3 +17,4 @@ namespace AT89S52_AVR8051_Programmer
         public static string ConfigPath;
     }
 }
+ 
