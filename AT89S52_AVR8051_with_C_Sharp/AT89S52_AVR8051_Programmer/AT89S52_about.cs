@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+ 
 namespace AT89S52_AVR8051_Programmer
 {
     public partial class AT89S52_about : Form
