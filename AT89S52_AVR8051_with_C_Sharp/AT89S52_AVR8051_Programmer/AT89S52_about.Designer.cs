@@ -6,7 +6,7 @@ namespace AT89S52_AVR8051_Programmer
         /// <summary>
         /// Required designer variable.
         /// </summary>
-        private System.ComponentModel.IContainer components = null;
+        private System.ComponentModel.IContainer components = null; 
 
         /// <summary>
         /// Clean up any resources being used.
