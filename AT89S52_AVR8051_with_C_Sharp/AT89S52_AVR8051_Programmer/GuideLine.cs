@@ -21,7 +21,7 @@ namespace AT89S52_AVR8051_Programmer
         private void GuideLine_Load(object sender, EventArgs e)
         {
             label1.Text = Properties.Resources.GuideLine;
-        }
+        } 
 
         private void Linkedin_Link_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
