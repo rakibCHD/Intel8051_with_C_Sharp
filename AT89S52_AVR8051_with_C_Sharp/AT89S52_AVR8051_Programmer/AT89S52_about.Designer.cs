@@ -4,7 +4,7 @@ namespace AT89S52_AVR8051_Programmer
     partial class AT89S52_about
     {
         /// <summary>
-        /// Required designer variable.
+        /// Required designer variable. 
         /// </summary>
         private System.ComponentModel.IContainer components = null; 
 
